@@ -57,5 +57,4 @@ public class Employee {
         return  "ФИО:" + name + " " + middleName + " " + surname +
                 ", отдел №" + department + ", зарплата: " + salary + ", №id=" + id;
     }
-
 }

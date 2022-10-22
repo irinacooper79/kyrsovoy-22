@@ -19,7 +19,6 @@ public class Main {
         averageSalary(employee);
         outputFullNameEmployee(employee);
     }
-
     public static void outputFullEmployee(Employee[] employee) {
         for (int i = 0; i < employee.length; i++) {
             System.out.println(employee[i].toString());
